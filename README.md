@@ -4,7 +4,7 @@
 - </> Desenvolvedor Fullstack Java - Ebac ...
 - 🧑‍💻 Desenvolvimento de sistemas - Instituto Federal...
   <!-- 📚 Salesforce Developer ... -->
--  🙋‍♂️ Estudando Java e seus frameworks.
+-  🙋‍♂️ Estudando javascript, Java e seus frameworks.
 
 
 
