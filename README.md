@@ -2,8 +2,8 @@
 
 
 - </> Desenvolvedor Fullstack Java - Ebac ...
+- 🧑‍💻 Faculdade de Análise e Desenvolvimento de sistemas - Descomplica
 - 🧑‍💻 Desenvolvimento de sistemas - IFSULDEMINAS
-- 🧑‍💻 Técnico em mecânica - Instituto Federal de São Paulo
 - 📚 Estudando javascript, Java e seus frameworks.
 
 
