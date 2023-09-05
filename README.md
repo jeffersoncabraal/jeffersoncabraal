@@ -14,7 +14,14 @@ Vamos nos conectar? Adoro conhecer novas pessoas com interesses semelhantes.
 
 
 - HABILIDADES <br/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="30" height="30" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>  <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="30" height="30" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="30" height="30" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/> <img width="30" height="30" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+     <div display="inline">
+       <img width="30" height="30" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
+       <img width="30" height="30" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
+       <img width="30" height="30" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
+       <img width="30" height="30" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/> 
+       <img width="30" height="30" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+    </div>
+  
 - FERRAMENTAS E TECNOLOGIAS <br/>
   <img width="30" height="30" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="30" height="30" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/>
 - ESTUDANDO <br/>
