@@ -1,6 +1,4 @@
 ### Olá bem vindos ao meu github. 
-
-
 - 👋 Me chamo Jefferson!<br/>
 
 Minha jornada na programação começou quando eu criei meu primeiro "Olá, Mundo!" em Javascript e desde então, venho explorando o emocionante mundo do desenvolvimento de software.
