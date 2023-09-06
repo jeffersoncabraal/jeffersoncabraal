@@ -2,11 +2,10 @@
 
 
 - 👋 Me chamo Jefferson!<br/>
-Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios para expandir meus horizontes.
-Estou fazendo faculdade de Análise e Desenvolvimento de Sistema. Minha jornada na programação começou quando eu criei meu primeiro "Olá, Mundo!" em Javascript e desde então, venho explorando o emocionante mundo do desenvolvimento de software.
+
+Minha jornada na programação começou quando eu criei meu primeiro "Olá, Mundo!" em Javascript e desde então, venho explorando o emocionante mundo do desenvolvimento de software.
 Minhas áreas de interesse são Front End e o Back End, estou sempre aprendendo e aprimorando minhas habilidades nesses campos.
-Sempre acreditei na filosofia de código aberto e colaboração, por isso estou aqui no GitHub para compartilhar projetos, contribuir para a comunidade e aprender com outros desenvolvedores talentosos.
-Vamos nos conectar? Adoro conhecer novas pessoas com interesses semelhantes. 
+Sempre acreditei na filosofia de código aberto e colaboração, por isso estou aqui no GitHub para compartilhar projetos, contribuir para a comunidade e aprender com outros desenvolvedores.
 
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
 - 📚 Desenvolvimento de Sistemas - Instituto Federal IFSULdeMinas
