@@ -1,10 +1,8 @@
 ## Olá bem vindos ao meu github. 
 ### 👋 Me chamo Jefferson!<br/>
-
-Minha jornada na programação começou quando eu criei meu primeiro "Olá, Mundo!" em Javascript e desde então, venho explorando o emocionante mundo do desenvolvimento de software.
-Minhas áreas de interesse são Front End e o Back End, estou sempre aprendendo e aprimorando minhas habilidades nesses campos.
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
-- 📚 Desenvolvimento de Sistemas - Instituto Federal IFSULdeMinas
+- 🌎 Sou brasileiro, 29 anos
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas.
+- 📚 Técnico em Desenvolvimento de Sistemas - Instituto Federal IFSULdeMinas
 - 💻 Desenvolvedor Fullstack Java - EBAC
 
 
