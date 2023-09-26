@@ -11,11 +11,17 @@
      <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
      <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
      <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
-     <img width="40" height="40" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/> 
      <img width="40" height="40" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-     <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
-     <img width="40" height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-    </div>
+     <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+     <img width="40" height="40" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+     </div>
+<!--      
+<img width="40" height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
+-->
+
+
+
 
           
 <div  display="inline">
