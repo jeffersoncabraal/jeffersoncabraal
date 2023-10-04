@@ -3,9 +3,6 @@
 - 🌎 Sou brasileiro, 29 anos
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas.
 - 📚 Técnico em Desenvolvimento de Sistemas - Instituto Federal IFSULdeMinas
-- 💻 Desenvolvedor Fullstack Java - EBAC
-
-
 
      <div display="inline">
      <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
